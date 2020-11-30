@@ -1,0 +1,6 @@
+Description: Pattern with packages for t0lte configurations
+Name: jolla-configuration-t0lte
+Requires:
+- patterns-sailfish-device-configuration-t0lte
+
+Summary: Jolla Configuration t0lte
