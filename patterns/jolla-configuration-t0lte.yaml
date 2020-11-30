@@ -2,5 +2,6 @@ Description: Pattern with packages for t0lte configurations
 Name: jolla-configuration-t0lte
 Requires:
 - patterns-sailfish-device-configuration-t0lte
+- droid-hal-t0lte-detritus
 
 Summary: Jolla Configuration t0lte
